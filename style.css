@@ -1,0 +1,31 @@
+h2{
+  font-family: 'Merriweather', serif;
+  font-size: 35px;
+  color: #2B4782;
+}
+p{
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+  color: #2B4782;
+  background-color: yellow;
+  border-style: solid;
+  width: 95%;
+}
+body{
+  border: solid;
+  background-color: #BED7E9;
+margin: 50px;
+}
+ul{
+  font-size: 30px;
+  font-family:sans-serif;
+  font-weight: 300;
+}
+form{
+  font-size: 20px;
+  font-weight: bold;
+}
+#submit{
+  background-position: center;
+  font-size: 20px;
+}
